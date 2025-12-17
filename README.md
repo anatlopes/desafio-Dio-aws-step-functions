@@ -23,7 +23,7 @@ Início → Execução → Sucesso
 ##  Evidências
 As capturas de tela demonstrando a criação da máquina de estados e a execução com sucesso do workflow estão disponíveis na pasta `/images`.
 ### Criação da State Machine
-![Criação da State Machine](images/criaçâo.PNG)
+![Criação da State Machine](images/criação.PNG)
 
 ### Execução com Sucesso
 ![Execução do Workflow](images/execução.PNG)
