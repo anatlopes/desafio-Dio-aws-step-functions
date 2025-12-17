@@ -22,6 +22,12 @@ Início → Execução → Sucesso
 
 ##  Evidências
 As capturas de tela demonstrando a criação da máquina de estados e a execução com sucesso do workflow estão disponíveis na pasta `/images`.
+### Criação da State Machine
+![Criação da State Machine](images/criacao.png)
+
+### Execução com Sucesso
+![Execução do Workflow](images/execucao.png)
+
 
 ##  Conclusão
 Este desafio possibilitou compreender, de forma prática, como o AWS Step Functions pode ser utilizado para orquestrar processos automatizados de maneira visual, organizada e escalável.
