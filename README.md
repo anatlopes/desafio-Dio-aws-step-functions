@@ -15,7 +15,7 @@ Aplicar os conceitos apresentados nas aulas em um ambiente prático, documentand
 - Execução do workflow Hello World
 - Monitoramento da execução e verificação do status
 - Análise das transições de estado
-
+  
 ##  Exemplo de Workflow
 Fluxo simples:
 Início → Execução → Sucesso
@@ -23,10 +23,10 @@ Início → Execução → Sucesso
 ##  Evidências
 As capturas de tela demonstrando a criação da máquina de estados e a execução com sucesso do workflow estão disponíveis na pasta `/images`.
 ### Criação da State Machine
-![Criação da State Machine](images/criacao.png)
+![Criação da State Machine](images/criaçâo.PNG)
 
 ### Execução com Sucesso
-![Execução do Workflow](images/execucao.png)
+![Execução do Workflow](images/execução.PNG)
 
 
 ##  Conclusão
